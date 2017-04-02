@@ -1,4 +1,4 @@
-<h4>Credits : </h4>
+<h4>References : </h4>
 https://www.cs.toronto.edu/~kriz/cifar.html <br>
 https://github.com/tensorflow/models/tree/master/tutorials/image/cifar10
 
